@@ -9,15 +9,25 @@ import new4 from '../Images/Newsletter/new4.png';
 import new5 from '../Images/Newsletter/new5.png';
 import new6 from '../Images/Newsletter/jan.png';
 import new7 from '../Images/Newsletter/new7.png';
+import new8 from '../Images/Newsletter/feb.png';
+
 
 
 const sessions = [
   {
-    id: 8,
+    id: 9,
     title: "July Edition",
     tenure: "2026-27",
     image: new7,
     link:'/Newsletter7.pdf'
+
+  },
+  {
+    id: 8,
+    title: "February Edition",
+    tenure: "2025-26",
+    image: new8,
+    link:'/Newsletterfeb.pdf'
 
   },
   {
